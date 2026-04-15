@@ -1,0 +1,6 @@
+{
+  "name": "CSP Solver Hub",
+  "description": "A comprehensive tool for solving Constraint Satisfaction Problems, including Zoo Enclosure planning and Sudoku puzzles using Backtracking, Forward Checking, and AC-3 algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
